@@ -1,0 +1,23 @@
+{
+  "name": "alldata-server-http",
+  "version": "0.1.0",
+  "description": "AllData HTTP server module",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "nodeunit": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alldata/alldata-server-http.git"
+  },
+  "keywords": [
+    "alldata",
+    "server",
+    "http"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
